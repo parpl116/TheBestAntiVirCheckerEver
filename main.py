@@ -40,7 +40,7 @@ def create_restricted_window():
 
     minimize_all_programs_builtin()
 
-    sleep(1)
+    sleep(0.3)
 
     print("Pygame starting")
     pygame.init()
