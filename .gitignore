@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+xor.py
+sess.py
+
 # Distribution / packaging
 .Python
 build/
